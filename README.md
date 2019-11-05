@@ -11,7 +11,7 @@ Aplicativo de chatbot feito através da API do DialogFlow, criado para disciplin
 
 :heavy_check_mark: Fazer o TextField de envio de mensagens ser igual ao do Whatsapp (borda redonda)
 
-- Criar um novo projeto de chatbot para um problema que deseja resolver e adicionar pelo menos 10 Intents
+:x: Criar um novo projeto de chatbot para um problema que deseja resolver e adicionar pelo menos 10 Intents
 
 :heavy_check_mark: Utilizar pelo menos 1 Entities no DialogFlow ([tutorial de como usar](https://www.youtube.com/watch?v=3ePcMGW5cjo))
 
